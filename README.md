@@ -1,4 +1,6 @@
 # Annual Store Report 2022 - Data Analysis
+![ Dashboard](image.png)
+
 
 ## Overview
 This Excel project provides a detailed analysis of the store's performance for the year 2022. The dashboard visualizes key metrics such as sales trends, customer demographics, and order statuses, offering insights that can help optimize store operations and improve decision-making.
